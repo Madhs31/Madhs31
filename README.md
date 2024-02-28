@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Maria Fernanda 👋
 
-# 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Madhs31&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> 
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Madhs31&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

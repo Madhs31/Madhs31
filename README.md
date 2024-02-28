@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Maria Fernanda 👋
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=nomadesfatec&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> 
-<div style="display: inline_block"><br>
   
   <img align="center" alt="Raphs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   

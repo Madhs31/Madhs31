@@ -1,10 +1,11 @@
 ### Olá! Eu sou a Maria Fernanda 👋
 
-  
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Madhs31&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> 
+/api/top-langs?username=anuraghazra&layout=compact&theme=dark
+<div>
   <img align="center" alt="Raphs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
   <img align="center" alt="Raphs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
   <img align="center" alt="Raphs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 

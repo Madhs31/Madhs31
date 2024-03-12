@@ -1,8 +1,7 @@
-### Olá! Eu sou a Maria Fernanda 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Madhs31&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Fernanda!;I'm+18+years+old!;I'm+from+Brazil!;I'm+Studying+Analysis+and+Systems+Development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Madhs31&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##
 > [!IMPORTANT]\

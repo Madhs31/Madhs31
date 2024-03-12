@@ -13,9 +13,6 @@
 </p>
 
 
-> [!IMPORTANT]\
-> [Projeto API - FATEC ](https://github.com/nomadesfatec)
-
 ##
 <div>
   <img align="center" alt="Raphs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

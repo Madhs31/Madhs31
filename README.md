@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Fernanda!;I'm+18+years+old!;I'm+from+Brazil!;I'm+Studying+Analysis+and+Systems+Development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+##
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Madhs31&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhs31&theme=midnight-purple&hide_border=false"  width="400px" />
 
 ##
 > [!IMPORTANT]\

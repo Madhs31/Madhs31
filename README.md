@@ -11,7 +11,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Madhs31&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
+##
+ <h3>My Social Medias</h3>
+  <div style="display: inline_block"><br>
+  <a href="https://www.instagram.com/ma_fehs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+</div>
 ##
 <p align="centre"><b>Visitors Count</b></p> 
 

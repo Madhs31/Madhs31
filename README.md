@@ -11,12 +11,16 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Madhs31&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
 ##
+
  <h3>My Social Medias</h3>
   <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/ma_fehs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </div>
+
 ##
+
 <p align="centre"><b>Visitors Count</b></p> 
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMadhs314&s=50&c=BA55D3&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 

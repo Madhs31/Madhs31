@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Fernanda!;I'm+18+years+old!;I'm+from+Brazil!;I'm+Studying+Analysis+and+Systems+Development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align=center widht=100%>
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Madhs31?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
 
 ##
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Madhs31&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhs31&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact) 
@@ -14,12 +13,52 @@
 
 ##
 
- <h3>My Social Medias</h3>
-  <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/ma_fehs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-  <a href="mailto:mdiniz.md30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<div style="display: inline_block"><br>
+    
+<img align="center" alt="Madhs31-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+<img align="center" alt="Madhs31-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+<img align="center" alt="Madhs31-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Madhs31-Flask" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" >
+
+<img align="center" alt="Madhs31-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+<img align="center" alt="Madhs31-Ollama" height="30" width="30" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
+
+<img align="center" alt="Madhs31-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">      
+
+<img align="center" alt="Madhs31-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+<img align="center" alt="Madhs31-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+<img align="center" alt="Madhs31-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="Madhs31-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+
+<img align="center" alt="Madhs31-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+
+<img align="center" alt="Madhs31-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+
+<img align="center" alt="Madhs31-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+     
 </div>
-</div>
+
+## 
+**Aprendizagem por Projetos Integrados**
+
+Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para desenvolver projetos a cada semestre, baseados em problemas reais. Esses projetos são fornecidos por empresas presentes no Parque Tecnológico, sendo que apenas no primeiro semestre é um projeto interno da Fatec SJC.
+
+-  [x] [1º Semestre](https://github.com/equipeAdalove/API-SEMESTRE1)
+-  [ ] [2º Semestre]
+-  [ ] [3º Semestre]
+-  [ ] [4º Semestre]
+-  [ ] [5º Semestre]
+-  [ ] [6º Semestre]
+
+
+
 
 
  

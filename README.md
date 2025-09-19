@@ -44,6 +44,25 @@
 <img align="center" alt="Madhs31-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
 <img align="center" alt="Madhs31-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+
+<img align="center" alt="Raphs-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
+<img align="center" alt="Raphs-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+
+<img align="center" alt="Raphs-ExpressJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+
+<img align="center" alt="Raphs-ViteJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+
+<img align="center" alt="Raphs-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+
+<img align="center" alt="Raphs-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+
+<img align="center" alt="Raphs-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
+
+<img align="center" alt="Raphs-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
+          
+<img align="center" alt="Raphs-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+
      
 </div>
 
@@ -54,7 +73,7 @@ Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para de
 
 -  [x] [1º Semestre](https://github.com/equipeAdalove/API-SEMESTRE1)
 -  [x] [2º Semestre](https://github.com/equipeAdalove/API-SEMESTRE2)
--  [ ] [3º Semestre]
+-  [X] [3º Semestre](https://github.com/equipeAdalove/API-SEMESTRE3)
 -  [ ] [4º Semestre]
 -  [ ] [5º Semestre]
 -  [ ] [6º Semestre]

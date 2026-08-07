@@ -85,15 +85,4 @@ Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para de
 -  [X] [3º Semestre](https://github.com/equipeAdalove/API-SEMESTRE3)
 -  [X] [4º Semestre](https://github.com/equipeAdalove/API-SEMESTRE4)
 -  [X] [5º Semestre](https://github.com/Madhs31/SyncDesk)
--  [ ] [6º Semestre](
-
-
-
-
-
- 
-
-
-
-
-
+-  [ ] [6º Semestre]

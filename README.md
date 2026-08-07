@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8806CE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Fernanda!;I'm+19+years+old!;I'm+from+Brazil!;I'm+Studying+Analysis+and+Systems+Development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Fernanda!;I'm+21+years+old!;I'm+from+Brazil!;I'm+Studying+Analysis+and+Systems+Development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align=center widht=100%>
 
 
@@ -83,9 +83,9 @@ Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para de
 -  [x] [1º Semestre](https://github.com/equipeAdalove/API-SEMESTRE1)
 -  [x] [2º Semestre](https://github.com/equipeAdalove/API-SEMESTRE2)
 -  [X] [3º Semestre](https://github.com/equipeAdalove/API-SEMESTRE3)
--  [ ] [4º Semestre]
--  [ ] [5º Semestre]
--  [ ] [6º Semestre]
+-  [X] [4º Semestre](https://github.com/equipeAdalove/API-SEMESTRE4)
+-  [X] [5º Semestre](https://github.com/Madhs31/SyncDesk)
+-  [ ] [6º Semestre](
 
 
 
